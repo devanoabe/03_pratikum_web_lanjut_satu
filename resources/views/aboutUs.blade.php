@@ -5,7 +5,8 @@
 @section('content')
     <div>
         <html>
-            <ul><a href="aboutUs">About Us</a></ul>
+            <h2 class="text-center">About-Us</h2>
         </html>
     </div>
 @endsection
+

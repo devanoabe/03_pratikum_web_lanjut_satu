@@ -4,6 +4,7 @@
 
 @section('content')
     <div>
-        Selamat datang di tampilan Home
+        <h2 class="text-center">Selamat datang di tampilan Home</h2> 
     </div>
 @endsection
+

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'news')
+@section('title', 'News')
 
 @section('content')
     <div>
@@ -9,3 +9,5 @@
         </html>
     </div>
 @endsection
+
+    

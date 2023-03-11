@@ -63,9 +63,7 @@ Route::prefix('program')->group(function() {
     });
 });
 
-Route::get('/aboutUs', function () {
-    return redirect('https://www.educastudio.com/about-us');
-});
+Route::get('/aboutUs',[SiteController::class, 'aboutUs']);
 
 Route::resource('/contactUs', SiteController::class)->only([
     'index',

@@ -4,6 +4,7 @@
 
 @section('content')
     <div>
-        <h2>Ini halaman Contact US</h2>
+        <h2 class="text-center">Ini halaman Contact-Us</h2>
     </div>
 @endsection
+
